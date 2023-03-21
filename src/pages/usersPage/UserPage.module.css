@@ -1,0 +1,17 @@
+.user {
+    width: 500px;
+    height: 100px;
+    background-color: #00000077;
+    margin: 20px;
+    padding: 12px;
+    font-size: 24px;
+    color: rgb(255, 255, 255);
+}
+
+.users {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #01223eef;
+}

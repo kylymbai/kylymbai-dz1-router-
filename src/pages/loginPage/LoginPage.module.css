@@ -1,0 +1,32 @@
+.input {
+    width: 300px;
+    height: 40px;
+    background-color:  #1e527f;
+    border: none;
+    margin: 20px;
+    padding: 10px;
+    color: aliceblue;
+    font-size: 20px;
+}
+
+.input::placeholder {
+    color: aliceblue;
+    font-size: 16px;
+}
+
+.login {
+    background-color: #142639;
+    height: 100vh;
+}
+
+.btn {
+    width: 80px;
+    height: 40px;
+    background-color: #0574ce;
+    border: none;
+    transition: 0.2s;
+}
+
+.btn:hover {
+    transform: scale(1.1);
+}
